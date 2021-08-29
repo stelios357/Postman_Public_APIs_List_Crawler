@@ -1,8 +1,5 @@
 # Postman_Public_APIs_List_Crawler
 
-
-
-
 **1. Steps to Run the Code:**<br /> 
     a. Compile and Run api_crawler.py<br /> 
     b. Enter Your MySQL hostname, username, password and an existing database name.<br /> 
@@ -37,15 +34,15 @@
                         +----------+
                         1 row in set (0.00 sec)
 <br /> 
-  **3. Done from “Points to achieve”:** <br />
+**3. Done from “Points to achieve”:** <br />
       a. Your code should follow concept of OOPS <br />
       b. Support for handling authentication requirements & token expiration of server <br />
       c. Support for pagination to get all data <br />
       d. Crawled all API entries for all categories and stored it in a database <br />
 <br /> 
-  **4. Not done:**
+**4. Not done:**
       a. Develop work around for rate limited server <br />	
 <br /> 
-  **5. Improve if given more days:**
+**5. Improve if given more days:**
       a. Develop work around for rate limited servers. <br />
       b. Better Exception handling. <br />
