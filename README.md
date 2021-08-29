@@ -36,7 +36,7 @@
                      +-------+------+------+-----+---------+-------+
                      1 row in set (0.00 sec)
 
-c. Number of entries in the table: 300
+           c. Number of entries in the table: 300
 
                         +----------+
                         | count(*) |
