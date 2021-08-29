@@ -13,16 +13,16 @@
     a. No command required to create the tables. <br /> 
     b. There are two tables : api_entires and categories with the following table schema:<br /> 
                  api_entries:<br /> 
+               
+                | Field             |: Type         :|: Null |: Key |: Default |: Extra |
                 +-------------+------------+------+-----+---------+-------+
-                | Field             | Type         | Null | Key | Default | Extra |
-                +-------------+------------+------+-----+---------+-------+
-                | API               | text         | YES  |     | NULL    |       |
-                | Description       | text         | YES  |     | NULL    |       |
-                | Auth              | text         | YES  |     | NULL    |       |
-                | HTTPS             | tinyint(1)   | YES  |     | NULL    |       |
-                | Cors              | text         | YES  |     | NULL    |       |
-                | Link              | text         | YES  |     | NULL    |       |
-                | Category          | text         | YES  |     | NULL    |       |
+                | API               :|: text         :| YES  :|     :| NULL    :|       :|
+                | Description       :|: text         :| YES  :|     :| NULL    :|       :|
+                | Auth              :|: text         :| YES  :|     :| NULL    :|       :|
+                | HTTPS             :|: tinyint(1)   :| YES  :|     :| NULL    :|       :|
+                | Cors              :|: text         :| YES  :|     :| NULL    :|       :|
+                | Link              :|: text         :| YES  :|     :| NULL    :|       :|
+                | Category          :|: text         :| YES  :|     :| NULL    :|       :|
                 +-------------+------------+------+-----+---------+-------+
 7 rows in set (0.03 sec)
 
