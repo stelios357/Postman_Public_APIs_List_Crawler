@@ -14,7 +14,7 @@
     b. There are two tables : api_entires and categories with the following table schema:<br /> 
                  api_entries:<br /> 
                
-                | Field             |: Type         :|: Null |: Key |: Default |: Extra |
+                | Field             |: Type         :|: Null |: Key |: Default :| Extra |
                 +-------------+------------+------+-----+---------+-------+
                 | API               :|: text         :| YES  :|     :| NULL    :|       :|
                 | Description       :|: text         :| YES  :|     :| NULL    :|       :|
@@ -26,7 +26,7 @@
                 +-------------+------------+------+-----+---------+-------+
 7 rows in set (0.03 sec)
 
-**categories:**<br /> 
+**categories:** <br /> 
 
     c. Number of entries in the table: 300
 
@@ -42,7 +42,7 @@
       b. Support for handling authentication requirements & token expiration of server
       c. Support for pagination to get all data
       d. Crawled all API entries for all categories and stored it in a database
-<br /> <br /> 
+<br /> 
   **4. Not done:**
       a. Develop work around for rate limited server	
 <br /> 
