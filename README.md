@@ -54,7 +54,7 @@
     c. Support for pagination to get all data 
     d. Crawled all API entries for all categories and stored it in a database 
 
-**4. Not done:**<br />
+**4. Not done from “Points to achieve”:**<br />
 
     a. Develop work around for rate limited server 
 
