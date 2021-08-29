@@ -163,7 +163,7 @@ def createTable(hostname, dbname, uname, pwd):
     print()
     print('RUN SUCCESFULLY COMPLETE!!')
     print('Table has total ' + str(l) + ' entries.')
-    print('Saved tables to database : ' + dbname + "with table name api_entries." )
+    print('Saved tables to database : ' + dbname + "with table name api_entries , category." )
 
 
 # In[42]:
