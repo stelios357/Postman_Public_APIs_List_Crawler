@@ -1,28 +1,33 @@
 # Postman_Public_APIs_List_Crawler
+
+
+
+
 **1. Steps to Run the Code:**
     a. Compile and Run api_crawler.py
     b. Enter Your MySQL hostname, username, password and an existing database name.
+    
+    
+    
 
  **2. Details of all the tables and their schema:**
     a. No command required to create the tables. 
     b. There are two tables : api_entires and categories with the following table schema:
-**api_entries:**
-**+-------------+------------+------+-----+---------+-------+
-| Field             | Type         | Null | Key | Default | Extra |
-+-------------+------------+------+-----+---------+-------+
-| API               | text         | YES  |     | NULL    |       |
-| Description       | text         | YES  |     | NULL    |       |
-| Auth              | text         | YES  |     | NULL    |       |
-| HTTPS             | tinyint(1)   | YES  |     | NULL    |       |
-| Cors              | text         | YES  |     | NULL    |       |
-| Link              | text         | YES  |     | NULL    |       |
-| Category          | text         | YES  |     | NULL    |       |
-+-------------+------------+------+-----+---------+-------+**
+                        **api_entries:**
+                **+-------------+------------+------+-----+---------+-------+
+                | Field             | Type         | Null | Key | Default | Extra |
+                +-------------+------------+------+-----+---------+-------+
+                | API               | text         | YES  |     | NULL    |       |
+                | Description       | text         | YES  |     | NULL    |       |
+                | Auth              | text         | YES  |     | NULL    |       |
+                | HTTPS             | tinyint(1)   | YES  |     | NULL    |       |
+                | Cors              | text         | YES  |     | NULL    |       |
+                | Link              | text         | YES  |     | NULL    |       |
+                | Category          | text         | YES  |     | NULL    |       |
+                +-------------+------------+------+-----+---------+-------+**
 7 rows in set (0.03 sec)
 
 **categories:**
-
-
 
     c. Number of entries in the table: 300
 
