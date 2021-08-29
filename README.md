@@ -2,16 +2,16 @@
 
 **1. Steps to Run the Code:** <br /> 
 
-       a. Compile and Run api_crawler.py<br /> 
-       b. Enter Your MySQL hostname, username, password and an existing database name.<br /> 
+       a. Compile and Run api_crawler.py
+       b. Enter Your MySQL hostname, username, password and an existing database name.
     
     
 
  **2. Details of all the tables and their schema:**<br /> 
  
-    a. No command required to create the tables.<br /> 
-    b. There are two tables : api_entires and categories with the following table schema:<br /> 
-                 api_entries:<br /> 
+    a. No command required to create the tables.
+    b. There are two tables : api_entires and categories with the following table schema:
+                 api_entries:
                
                 | Field             |: Type         :|: Null |: Key |: Default :| Extra |
                 +-------------+------------+------+-----+---------+-------+
@@ -39,16 +39,16 @@ c. Number of entries in the table: 300
 <br />
 **3. Done from “Points to achieve”:** <br />
 
-    a. Your code should follow concept of OOPS <br />
-    b. Support for handling authentication requirements & token expiration of server<br />
-    c. Support for pagination to get all data <br />
-    d. Crawled all API entries for all categories and stored it in a database <br />
+    a. Your code should follow concept of OOPS 
+    b. Support for handling authentication requirements & token expiration of server
+    c. Support for pagination to get all data 
+    d. Crawled all API entries for all categories and stored it in a database 
 
 **4. Not done:**<br />
 
-    a. Develop work around for rate limited server <br />	
+    a. Develop work around for rate limited server 
 
 **5. Improve if given more days:**<br />
 
-    a. Develop work around for rate limited servers. <br />
-    b. Better Exception handling. <br />
+    a. Develop work around for rate limited servers. 
+    b. Better Exception handling. 
