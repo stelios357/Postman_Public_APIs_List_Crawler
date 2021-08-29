@@ -2,8 +2,9 @@
 
 **1. Steps to Run the Code:** <br /> 
 
-       a. Compile and Run api_crawler.py
-       b. Enter Your MySQL hostname, username, password and an existing database name.
+       a. Open command prompt in the folder and run : pip install -r requirements.txt
+       b. Compile and Run api_crawler.py
+       c. Enter Your MySQL hostname, username, password and an existing database name.
     
     
 
