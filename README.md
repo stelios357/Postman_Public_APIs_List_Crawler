@@ -44,8 +44,8 @@
                         |      300 |
                         +----------+
                         
-                 1 row in set (0.00 sec)<br />
-<br />
+                 1 row in set (0.00 sec)
+
 **3. Done from “Points to achieve”:** <br />
 
     a. Your code should follow concept of OOPS 
