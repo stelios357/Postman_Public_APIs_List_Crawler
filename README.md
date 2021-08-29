@@ -39,10 +39,10 @@
       b. Support for handling authentication requirements & token expiration of server <br />
       c. Support for pagination to get all data <br />
       d. Crawled all API entries for all categories and stored it in a database <br />
-<br /> 
-**4. Not done:**
+
+**4. Not done:**<br />
       a. Develop work around for rate limited server <br />	
-<br /> 
-**5. Improve if given more days:**
+
+**5. Improve if given more days:**<br />
       a. Develop work around for rate limited servers. <br />
       b. Better Exception handling. <br />
