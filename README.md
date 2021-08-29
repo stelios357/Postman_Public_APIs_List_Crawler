@@ -11,7 +11,7 @@
  
     a. No command required to create the tables.
     b. There are two tables : api_entires and categories with the following table schema:
-                 api_entries:
+                 **api_entries:**
                
                 | Field             |: Type         :|: Null |: Key |: Default :| Extra |
                 +-------------+------------+------+-----+---------+-------+
@@ -23,9 +23,15 @@
                 | Link              :|: text         :| YES  :|     :| NULL    :|       :|
                 | Category          :|: text         :| YES  :|     :| NULL    :|       :|
                 +-------------+------------+------+-----+---------+-------+
-7 rows in set (0.03 sec)
-
-**categories:** <br /> 
+       7 rows in set (0.03 sec)
+       
+       categories:
+                     +-------+------+------+-----+---------+-------+
+                     | Field | Type | Null | Key | Default | Extra |
+                     +-------+------+------+-----+---------+-------+
+                     | 0     | text | YES  |     | NULL    |       |
+                     +-------+------+------+-----+---------+-------+
+                     1 row in set (0.00 sec)
 
 c. Number of entries in the table: 300
 
