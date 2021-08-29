@@ -36,7 +36,7 @@
                      +-------+------+------+-----+---------+-------+
                      1 row in set (0.00 sec)
 
-           c. Number of entries in the table: 300
+**Number of entries in the table: 300** <br /> 
 
                         +----------+
                         | count(*) |
@@ -44,7 +44,7 @@
                         |      300 |
                         +----------+
                         
-1 row in set (0.00 sec)<br />
+                 1 row in set (0.00 sec)<br />
 <br />
 **3. Done from “Points to achieve”:** <br />
 
